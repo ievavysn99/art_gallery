@@ -1,8 +1,10 @@
+import { StyledHeader } from './style';
+
 const Header = () => {
   return (
-    <header>
-      <h1>Art Gallery</h1>
-    </header>
+    <StyledHeader>
+      <h1>My Art Gallery</h1>
+    </StyledHeader>
   );
 };
 
